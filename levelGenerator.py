@@ -787,7 +787,7 @@ class Level_Town(LevelGen):
 			self, 576, 128, 
 			
 			# List of sprite
-			[os.path.join("imgs", "FEMALE1.png")], 
+			[os.path.join("imgs", "Female1.png")], 
 			
 			# Display 
 			self.display, 

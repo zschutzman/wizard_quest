@@ -101,9 +101,9 @@ creditsQuitRect.bottomleft = ( (screen.get_rect().centerx + 20), (screen.get_rec
 
 textures = [
 			# 0,1
-			os.path.join("imgs", "grass1.png"), os.path.join("imgs", "grass2.png"), 
+			os.path.join("imgs", "Grass1.png"), os.path.join("imgs", "Grass2.png"), 
 			# 2,3
-			os.path.join("imgs", "grass3.png"),	os.path.join("imgs", "grass4.png"),
+			os.path.join("imgs", "Grass3.png"),	os.path.join("imgs", "Grass4.png"),
 			#4,5
 			os.path.join("imgs", "WaterC1.png"), os.path.join("imgs", "WaterC1.png"),
 			#6,7
